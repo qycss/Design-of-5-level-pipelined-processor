@@ -1,7 +1,8 @@
 # Design of 5-level pipelined processor
 能执行 add，sub，and，or，slt，lw，sw，beq 和 jump指令，不支持溢出。
 
-**【仅给未来要做36/45条流水线的dalao提供思路】**
+**【去年写的了，可能有很多错误，欢迎指正】
+【仅给未来要做36/45条流水线的dalao提供思路】**
 
 
 
