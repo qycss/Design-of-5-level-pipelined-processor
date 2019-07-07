@@ -1,0 +1,7 @@
+
+
+module zero_check(BUSA,BUSB,zero);
+	input [31:0]BUSA,BUSB;
+	output zero;
+	assign zero = (BUSA==BUSB?1:0);
+endmodule
